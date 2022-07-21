@@ -1,0 +1,9 @@
+.row{
+
+    height: 100vh;
+    align-items: center;
+}
+.img{
+    width: 120px;
+    height: 120px;
+}
